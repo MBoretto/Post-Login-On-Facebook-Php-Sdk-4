@@ -1,0 +1,13 @@
+{
+    "name": "marco/ceccoinspire",
+    "description": "Post status on facebook!",
+    "require": {
+        "facebook/php-sdk-v4": "^4.0"
+    },
+    "authors": [
+        {
+            "name": "MBoretto",
+            "email": "marco.bore@gmail.com"
+        }
+    ]
+}
